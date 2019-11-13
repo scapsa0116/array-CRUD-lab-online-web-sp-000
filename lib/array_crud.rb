@@ -32,6 +32,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   school_accessories = ["wow", "books", "am", "pencils", "notebook", "calculator",]
+  school_accessories.index
   
 end
 
