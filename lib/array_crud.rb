@@ -8,6 +8,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
+    school_accessories = ["books", "pencils", "notebook", "calculator",]
+    school_accessories
   
 end
 
