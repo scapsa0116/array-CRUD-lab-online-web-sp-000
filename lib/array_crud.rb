@@ -20,8 +20,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  school_accessories = ["books", "pencils", "notebook", "calculator","arrays!"]
-  arrays! = school_accessories.pop
+  school_accessories = ["books", "pencils", "notebook", "calculator","arrays"]
+  arrays = school_accessories.pop
   
 end
 
