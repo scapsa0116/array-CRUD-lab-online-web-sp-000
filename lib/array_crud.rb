@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  school_accessories = ["books", "pencils", "notebook", "calculator", "scissors"]
+  school_accessories = ["books", "pencils", "notebook", "calculator",]
   
 end
 
