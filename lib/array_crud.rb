@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  
+  my_array = [books, pencels, notebook, calculator]
   
 end
 
