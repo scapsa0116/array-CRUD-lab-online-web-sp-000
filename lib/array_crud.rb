@@ -31,7 +31,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  school_accessories = ["wow", "books", "am" "pencils", "notebook", "calculator",]
+  school_accessories = ["wow", "books", "am", "pencils", "notebook", "calculator",]
   
 end
 
