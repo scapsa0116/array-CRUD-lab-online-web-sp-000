@@ -21,7 +21,7 @@ end
 
 def remove_element_from_end_of_array(array)
   school_accessories = ["books", "pencils", "notebook", "calculator","arrays!"]
-  "arrays!" = school_accessories.pop
+  (arrays!) = school_accessories.pop
   
 end
 
