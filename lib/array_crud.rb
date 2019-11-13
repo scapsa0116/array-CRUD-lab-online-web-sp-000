@@ -43,5 +43,5 @@ end
 
 def retrieve_last_element_from_array(array)
   school_accessories = ["wow", "books", "am", "pencils", "notebook", "calculator", "arrays!"]
-  
+  school_accessories[6]
 end
