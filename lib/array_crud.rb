@@ -37,7 +37,8 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  
+  school_accessories = ["wow", "books", "am", "pencils", "notebook", "calculator",]
+  school_accessories[0]
 end
 
 def retrieve_last_element_from_array(array)
