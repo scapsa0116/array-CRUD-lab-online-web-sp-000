@@ -27,7 +27,7 @@ end
 
 def remove_element_from_start_of_array(array)
   school_accessories = ["wow", "books", "pencils", "notebook", "calculator",]
-  
+  wow = school_accessories.shift
 end
 
 def retrieve_element_from_index(array, index_number)
